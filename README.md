@@ -57,4 +57,4 @@ Some other HAB-related projects I wrote:
 Support
 =======
 
-Discuss firmware bugs or suggestions in the issue tracker, or ask for help at the [http://hab-ham.org/forum/](hab-ham.org forum).
+Discuss firmware bugs or suggestions in the issue tracker, or ask for help at the [SparkFun Forums](https://forum.sparkfun.com/).
